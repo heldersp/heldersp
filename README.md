@@ -1,7 +1,7 @@
 ## Bem-vindo/Bienvenido/Welcome!
 
 - Profissional em transição de carreira, aos 31 anos decidi migrar totalmente para T.I., pois o mundo da tecnologia sempre me fascinou, além de também se tratar de uma área que me desperta interesse e obsessão em aprofundar conhecimentos e habilidades, me desenvolvendo agora como profissional.  
-- Atualmente cursando Bacharelado em Sistemas de Informação no Centro Universitário Fundação Santo André, com previsão de término em julho/2025. Ao longo do curso me aprofundarei em algumas linguagens como PHP, C, JAVA, Python, dentre outras tecnologias. Vou disponibilizando projetos e aprendizados aqui no Git conforme minha curva de aprendizagem ao longo dos cursos. Na plataforma Alura estou me dedicando à linguagem C# e desmembrando o .NET framework nas horas vagas. 
+- Atualmente cursando Bacharelado em Sistemas de Informação no Centro Universitário Fundação Santo André, com previsão de conclusão em julho/2025. Ao longo do curso me aprofundarei em algumas linguagens como PHP, C, JAVA, Python, dentre outras tecnologias. Vou disponibilizando projetos e aprendizados aqui no Git conforme minha curva de aprendizagem ao longo dos cursos. Na plataforma Alura estou me dedicando à linguagem C# e desmembrando o .NET framework nas horas vagas. 
 - Esse espaço é um espelho que montei para refletir minha evolução na programação e que servirá também como portifólio. 
 
 *Obs.:* ainda não trabalho com desenvolvimento, estou buscando uma oportunidade para ingressar na área, seja estágio ou até quem sabe uma vaga efetiva. Estou aberto a propostas 😊
