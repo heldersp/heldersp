@@ -6,6 +6,8 @@
 
 - Atualmente ampliando habilidades: Banco de dados SQL, Python, Microsoft Azure | Improving knowledge: SQL, Phyton, Microsoft Azure.
 
+- HTML5, CSS, C#, .Net básico.
+
 - Inglês nível intermediário.
 
 - Espanhol nível intermediário. 
