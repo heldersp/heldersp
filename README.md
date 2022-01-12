@@ -12,9 +12,7 @@
 
 - Espanhol nível intermediário. 
 
-- Esse espaço é um espelho que montei para refletir minha evolução na programação e que servirá também como portifólio. 
-
-*Obs.:* ainda não trabalho com desenvolvimento, estou buscando uma oportunidade para ingressar na área, seja estágio ou até quem sabe uma vaga efetiva. Estou aberto a propostas 😊
+- Espaço para laboratório e exercícios. 
 
 🏠 - Mauá/SP
 
