@@ -1,12 +1,12 @@
 ## Bem-vindo/Bienvenido/Welcome!
 
-- Estudante de Bacharelado em Sistemas de Informação | Bachelor's student: Information Systems.
+- Estudante de Bacharelado em Sistemas de Informação | Bachelor's Degree student: Information Systems.
 
-- Estagiário em Engenharia de Dados na Avanade Brasil | Data Engineering Intern at Avanade Brasil.
+- Estagiário de Analytics na Avanade Brasil | Advanced Analytics Intern at Avanade Brasil.
 
-- Atualmente ampliando habilidades: Banco de dados SQL, Python, Microsoft Azure | Improving knowledge: SQL, Phyton, Microsoft Azure.
+- Atualmente ampliando habilidades: Banco de dados SQL, Java, Python, Microsoft Azure | Improving knowledge: SQL, Java, Phyton, Microsoft Azure.
 
-- HTML5, CSS, C#, .Net básico.
+- HTML5, CSS, C, C#, .Net nível iniciante.
 
 - Inglês nível intermediário.
 
