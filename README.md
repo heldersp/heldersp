@@ -2,7 +2,7 @@
 
 - Estudante de Bacharelado em Sistemas de Informação | Bachelor's Degree student: Information Systems.
 
-- Estagiário em Analytics na Avanade Brasil | Advanced Analytics Intern at Avanade Brasil.
+- Estagiário na Avanade Brasil | Intern at Avanade Brasil.
 
 - Atualmente ampliando habilidades: Banco de dados SQL, Java, Python, Microsoft Azure | Improving knowledge: SQL, Java, Phyton, Microsoft Azure.
 
