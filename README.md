@@ -4,7 +4,7 @@
 
 - Estagiário na Avanade Brasil | Intern at Avanade Brasil.
 
-- Atualmente ampliando habilidades: Banco de dados SQL, Java, Python, Microsoft Azure | Improving knowledge: SQL, Java, Phyton, Microsoft Azure.
+- Atualmente ampliando habilidades: Banco de dados SQL, Java, RPA, Microsoft Azure | Improving knowledge: SQL, Java, RPA, Microsoft Azure.
 
 - HTML5, CSS, C, C#, .Net nível iniciante.
 
