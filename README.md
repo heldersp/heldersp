@@ -1,6 +1,6 @@
 ## Bem-vindo/Bienvenido/Welcome!
 
-- Estudante de Bacharelado em Sistemas de Informação | Bachelor's Degree student: Information Systems.
+- Estudante de Bacharelado em Sistemas de Informação | Information Systems Bachelor's Degree student.
 
 - Estagiário em Desenvolvimento RPA na Avanade Brasil | RPA Development Intern at Avanade Brasil.
 
