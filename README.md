@@ -2,11 +2,11 @@
 
 - Estudante de Bacharelado em Sistemas de Informação | Bachelor's Degree student: Information Systems.
 
-- Estagiário na Avanade Brasil | Intern at Avanade Brasil.
+- Estagiário em Desenvolvimento RPA na Avanade Brasil | RPA Development Intern at Avanade Brasil.
 
-- Atualmente ampliando habilidades: Banco de dados SQL, Java, RPA, Microsoft Azure | Improving knowledge: SQL, Java, RPA, Microsoft Azure.
+- Atualmente ampliando habilidades: SQL Server, C#, RPA, UiPath, Grafana | Improving knowledge: SQL Server, C#, RPA, UiPath, Grafana.
 
-- HTML5, CSS, C, C#, .Net nível iniciante.
+- Noções de HTML5, CSS, C, C#, .Net.
 
 - Inglês nível intermediário.
 
