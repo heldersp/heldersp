@@ -2,7 +2,7 @@
 
 - Estudante de Bacharelado em Sistemas de Informação | Information Systems Bachelor's Degree student.
 
-- Estagiário em Desenvolvimento RPA na Avanade Brasil | RPA Development Intern at Avanade Brasil.
+- Estagiário em Desenvolvimento RPA na Avanade Brasil | RPA Developer Intern at Avanade Brasil.
 
 - Atualmente ampliando habilidades: SQL Server, C#, RPA, UiPath, Grafana | Improving knowledge: SQL Server, C#, RPA, UiPath, Grafana.
 
