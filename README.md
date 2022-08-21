@@ -4,7 +4,7 @@
 
 - Estagiário na Avanade Brasil | Intern at Avanade Brasil.
 
-- Atualmente ampliando habilidades: SQL Server, C#, RPA, UiPath, Grafana | Improving knowledge: SQL Server, C#, RPA, UiPath, Grafana.
+- Atualmente ampliando habilidades: SQL Server, C#, Microsoft Azure, Power BI | Improving knowledge: SQL Server, C#, Microsoft Azure, Power BI.
 
 - Noções de HTML5, CSS, C, C#, .Net.
 
