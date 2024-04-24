@@ -2,17 +2,17 @@
 
 - Estudante de Bacharelado em Sistemas de Informação | Information Systems Bachelor's Degree student.
 
-- Estagiário na Avanade Brasil | Intern at Avanade Brasil.
+- Estagiário dem Data Analytics Engineering | Data Analytics Engineering Intern.
 
-- Atualmente ampliando habilidades: Java, SQL Server, C#, Microsoft Azure, Power BI | Improving knowledge: Java, SQL Server, C#, Microsoft Azure, Power BI.
+- Atualmente ampliando habilidades: Java, SQL Server, Linux | Improving knowledge: Java, SQL Server, Linux.
 
-- Noções de HTML5, CSS, C, C#, .Net.
+- Noções de HTML5, CSS, C, C#, .Net, QuickSight, Power BI, Excel, Python, R.
 
 - Inglês nível intermediário.
 
 - Espanhol nível intermediário. 
 
-- Espaço para laboratório e exercícios. 
+- Espaço para laboratório. 
 
 🏠 - Mauá/SP
 
@@ -29,7 +29,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  
@@ -37,7 +37,7 @@
  
  <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
  <img align="center" alt="grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
  
