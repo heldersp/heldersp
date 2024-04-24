@@ -4,7 +4,7 @@
 
 - Estagiário dem Data Analytics Engineering | Data Analytics Engineering Intern.
 
-- Atualmente ampliando habilidades: Java, SQL Server, Linux | Improving knowledge: Java, SQL Server, Linux.
+- Atualmente ampliando habilidades: Java, SQL Server, Linux| Improving knowledge: Java, SQL Server, Linux.
 
 - Noções de HTML5, CSS, C, C#, .Net, QuickSight, Power BI, Excel, Python, R.
 
@@ -13,8 +13,6 @@
 - Espanhol nível intermediário. 
 
 - Espaço para laboratório. 
-
-🏠 - Mauá/SP
 
 ##
 
