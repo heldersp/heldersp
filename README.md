@@ -2,7 +2,7 @@
 
 - Estudante de Bacharelado em Sistemas de Informação | Information Systems Bachelor's Degree student.
 
-- Estagiário dem Data Analytics Engineering | Data Analytics Engineering Intern.
+- Estagiário Dados e Analytics | Data Analytics Intern.
 
 - Atualmente ampliando habilidades: Java, SQL Server, Linux| Improving knowledge: Java, SQL Server, Linux.
 
