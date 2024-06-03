@@ -12,7 +12,7 @@
 
 - Espanhol nível intermediário. 
 
-- Espaço para laboratório. 
+- Espaço para laboratório e exercícios. 
 
 ##
 
