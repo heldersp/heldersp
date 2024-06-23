@@ -4,7 +4,7 @@
 
 - Estagiário Dados e Analytics | Data Analytics Intern.
 
-- Atualmente ampliando habilidades: Java, SQL Server, Linux| Improving knowledge: Java, SQL Server, Linux.
+- Atualmente ampliando habilidades: Java, SQL Server, Linux, Android | Improving knowledge: Java, SQL Server, Linux, Android.
 
 - Noções de HTML5, CSS, C, C#, .Net, QuickSight, Power BI, Excel, Python, R.
 
