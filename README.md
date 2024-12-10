@@ -2,11 +2,11 @@
 
 - Estudante de Bacharelado em Sistemas de Informação | Information Systems Bachelor's Degree student.
 
-- Estagiário Dados e Analytics | Data Analytics Intern.
+- Engenheiro de Dados | Data Engineer.
 
-- Atualmente ampliando habilidades: Python, Java, SQL Server, Linux, Android | Improving knowledge: Python, Java, SQL Server, Linux, Android.
+- Atualmente ampliando habilidades: Python, Airflow, SQL Server, Linu | Improving knowledge: Python, Airflow, SQL Server, Linux.
 
-- Noções de HTML5, CSS, C, C#, .Net, QuickSight, Power BI, Excel, Python, R.
+- Noções de HTML5, CSS, C, C#, .Net, QuickSight, Power BI, Excel, Java, R, Docker.
 
 - Inglês nível intermediário.
 
