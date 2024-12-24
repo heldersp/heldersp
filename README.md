@@ -4,7 +4,7 @@
 
 - Engenheiro de Dados | Data Engineer.
 
-- Atualmente ampliando habilidades: Python, Airflow, SQL Server, Linu | Improving knowledge: Python, Airflow, SQL Server, Linux.
+- Atualmente ampliando habilidades: Python, Airflow, SQL Server, Linux | Improving knowledge: Python, Airflow, SQL Server, Linux.
 
 - Noções de HTML5, CSS, C, C#, .Net, QuickSight, Power BI, Excel, Java, R, Docker.
 
